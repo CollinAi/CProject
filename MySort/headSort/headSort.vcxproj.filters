@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="headSord.cpp">
+    <ClCompile Include="headSort.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
