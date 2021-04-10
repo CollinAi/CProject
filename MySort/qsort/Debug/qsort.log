@@ -1,0 +1,3 @@
+﻿  qsort.cpp
+D:\VS2019\win32\MySort\qsort\qsort.cpp(39,20): warning C4018: “<”: 有符号/无符号不匹配
+  qsort.vcxproj -> D:\VS2019\win32\MySort\Debug\qsort.exe
