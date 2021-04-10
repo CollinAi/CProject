@@ -1,4 +1,0 @@
-﻿  numToBigNum.cpp
-D:\VS2019\win32\MySort\numToBigNum\numToBigNum.cpp(12,18): warning C4244: “初始化”: 从“long double”转换到“float”，可能丢失数据
-D:\VS2019\win32\MySort\numToBigNum\numToBigNum.cpp(80,23): warning C4018: “<”: 有符号/无符号不匹配
-  numToBigNum.vcxproj -> D:\VS2019\win32\MySort\Debug\numToBigNum.exe
